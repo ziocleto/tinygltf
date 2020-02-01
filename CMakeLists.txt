@@ -23,6 +23,7 @@ INSTALL ( FILES
   json.hpp
   stb_image.h
   stb_image_write.h
+  tiny_dng_loader.h
   tiny_gltf.h
   DESTINATION
   include
